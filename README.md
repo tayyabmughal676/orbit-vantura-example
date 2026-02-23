@@ -8,7 +8,7 @@ Orbit is an **official example project** for the **Vantura Agentic AI Framework*
 
 ## Screenshots
 
-![Vantura App Screenshot](./screenshots/vantura-example.png)
+<img src="./screenshots/vantura-example.png" alt="Vantura App Screenshot" width="400">
 
 ## Table of Contents
 
