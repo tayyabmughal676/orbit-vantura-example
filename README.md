@@ -6,9 +6,13 @@
 
 Orbit is an **official example project** for the **Vantura Agentic AI Framework**, demonstrating how to build AI-powered Flutter applications using Clean Architecture. This business management suite integrates intelligent AI agents capable of handling client management, inventory tracking, invoicing, and financial operations through natural language interactions.
 
+## Screenshots
+
+![Vantura App Screenshot](./screenshots/vantura-example.png)
+
 ## Table of Contents
 
-- [Features](#features)
+- [Screenshots](#screenshots)
 - [Architecture](#architecture)
 - [Technologies](#technologies)
 - [Prerequisites](#prerequisites)
@@ -143,7 +147,7 @@ Create a `.env` file in the project root:
 # Vantura AI Configuration
 GROQ_API_KEY=your_groq_api_key_here
 BASE_URL=https://api.groq.com
-MODEL=llama2-70b-4096
+MODEL=llama-3.3-70b-versatile
 
 # Optional: Custom configurations
 LOG_LEVEL=debug
