@@ -124,8 +124,8 @@ Before running Orbit, ensure you have:
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/vantura-ai/orbit-example.git
-cd orbit
+git clone https://github.com/tayyabmughal676/orbit-vantura-example.git
+cd orbit-vantura-example
 ```
 
 ### 2. Install Dependencies
